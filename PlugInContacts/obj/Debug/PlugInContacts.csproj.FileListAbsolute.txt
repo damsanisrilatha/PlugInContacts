@@ -1,0 +1,8 @@
+C:\Microsoft Dynamics CRM\visual studio code\PlugInContacts\PlugInContacts\bin\Debug\PlugInContacts.dll
+C:\Microsoft Dynamics CRM\visual studio code\PlugInContacts\PlugInContacts\bin\Debug\PlugInContacts.pdb
+C:\Microsoft Dynamics CRM\visual studio code\PlugInContacts\PlugInContacts\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Microsoft Dynamics CRM\visual studio code\PlugInContacts\PlugInContacts\obj\Debug\PlugInContacts.csprojAssemblyReference.cache
+C:\Microsoft Dynamics CRM\visual studio code\PlugInContacts\PlugInContacts\obj\Debug\PlugInContacts.csproj.CoreCompileInputs.cache
+C:\Microsoft Dynamics CRM\visual studio code\PlugInContacts\PlugInContacts\obj\Debug\PlugInContacts.csproj.CopyComplete
+C:\Microsoft Dynamics CRM\visual studio code\PlugInContacts\PlugInContacts\obj\Debug\PlugInContacts.dll
+C:\Microsoft Dynamics CRM\visual studio code\PlugInContacts\PlugInContacts\obj\Debug\PlugInContacts.pdb
